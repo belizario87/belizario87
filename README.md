@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Leonardo+Francisco+Belizario;I'm+from+Brazil,+RJ;I+study+analysis+and+systems+development;Be+Welcome+to+my+github!;:%29)](https://git.io/typing-svg)
 
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=belizario87&bg_color=000000&color=ffffff&line=ffffff&point=9d00d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center">  
 
 </div>
