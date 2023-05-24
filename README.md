@@ -18,8 +18,8 @@
  ### Main skills:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-Springboot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
-![Mysql](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JPA Hibernate](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JPA Hibernate](https://img.shields.io/badge/-Hibernate-0D1117?style=for-the-badge&logo=Hibernate&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Tools:
 
@@ -33,7 +33,7 @@
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Javascript](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 
